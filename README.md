@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.gifer.com/Ry6p.gif"  />
+  <img height="100px" src="https://i.gifer.com/Ry6p.gif"  />
 </div>
 
 ###
