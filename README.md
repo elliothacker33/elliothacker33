@@ -34,14 +34,11 @@
 
 ###
 
-<div align="center">
-  <img height="100px" src="https://i.gifer.com/Ry6p.gif"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/elliothacker33/elliothacker33/output/snake.svg" alt="Snake animation" />
 
 ###
