@@ -1,7 +1,11 @@
 # Hello, I'm Tomás Pereira
 
 ## About Me:
-- 👨🏽‍💻 I’m currently doing a bachelor's degree in Computer Science at Feup.<br>- 🌱 I’m currently learning Ocaml, compilers...<br>- 🤔 In 2024 I will learn more about economics and corporate finance.<br>- 🎿 Hobbies:  Trail-running, gym, and reading.<br>- 📫 How to reach me: tomastorrespereira@gmail.com
+- 👨🏽‍💻 I’m currently doing a bachelor's degree in Computer Science at Feup.<br>
+- 🌱 I’m currently learning Ocaml, compilers...<br>
+- 🤔 In 2024 I will learn more about economics and corporate finance.<br>
+- 🎿 Hobbies:  Trail-running, gym, and reading.<br>
+- 📫 How to reach me: tomastorrespereira@gmail.com
 
 
 ## 🌐 Socials:
